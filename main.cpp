@@ -15,9 +15,9 @@ int main()
     povtor:
     // ќбъ€вление переменных N1 и N2 промежутка натуральных чисел
     unsigned int N1, N2;
-    cout << "Vvedite pervoe chislo N1: ";
+    cout << "Vvedite PERVOE chislo N1: ";
     cin >> N1;
-    cout << "Vvedite vtoroe chislo N2: ";
+    cout << "Vvedite VTOROE chislo N2: ";
     cin >> N2;
     // ”словие проверки корректности ввода начала и конца
     // диапазона натуральных чисел
